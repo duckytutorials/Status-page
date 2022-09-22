@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nova-bot.tk
   # baseUrl: /Status-page
-    favicon: https://cdn.discordapp.com/avatars/896303947311104041/06a3057d95612a58b10c4c11d9c99559.png?size=2048
+  favicon: https://cdn.discordapp.com/avatars/896303947311104041/06a3057d95612a58b10c4c11d9c99559.png?size=2048
   name: Nova bot
   theme: dark
   introTitle: "Nova status page"

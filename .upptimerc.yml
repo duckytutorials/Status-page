@@ -9,7 +9,7 @@ sites:
     url: https://api.nova-bot.tk
   - name: Image API
     url: https://api2.nova-bot.tk
-  - name: Test Broken Site
+  - name: Reverse proxy
     url: https://proxy.paraduckhost.com
 
 status-website:
@@ -17,10 +17,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nova-bot.tk
   # baseUrl: /Status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+    favicon: https://cdn.discordapp.com/avatars/896303947311104041/06a3057d95612a58b10c4c11d9c99559.png?size=2048
   name: Nova bot
+  theme: dark
   introTitle: "Nova status page"
-  introMessage: Look at nova
+  introMessage: Look at Novas status
   navbar:
     - title: Status
       href: /

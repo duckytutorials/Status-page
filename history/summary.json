@@ -2,7 +2,7 @@
   {
     "name": "Dashboard",
     "url": "https://dashboard.nova-bot.tk",
-    "icon": "https://favicons.githubusercontent.com/dashboard.nova-bot.tk",
+    "icon": "https://icons.duckduckgo.com/ip3/dashboard.nova-bot.tk.ico",
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.44%",
@@ -22,7 +22,7 @@
   {
     "name": "API",
     "url": "https://api.nova-bot.tk",
-    "icon": "https://favicons.githubusercontent.com/api.nova-bot.tk",
+    "icon": "https://icons.duckduckgo.com/ip3/api.nova-bot.tk.ico",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -40,7 +40,7 @@
   {
     "name": "Image API",
     "url": "https://api2.nova-bot.tk",
-    "icon": "https://favicons.githubusercontent.com/api2.nova-bot.tk",
+    "icon": "https://icons.duckduckgo.com/ip3/api2.nova-bot.tk.ico",
     "slug": "image-api",
     "status": "up",
     "uptime": "99.88%",
@@ -61,7 +61,7 @@
   {
     "name": "Reverse proxy",
     "url": "https://proxy.paraduckhost.com",
-    "icon": "https://favicons.githubusercontent.com/proxy.paraduckhost.com",
+    "icon": "https://icons.duckduckgo.com/ip3/proxy.paraduckhost.com.ico",
     "slug": "reverse-proxy",
     "status": "up",
     "uptime": "100.00%",
